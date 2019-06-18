@@ -1,0 +1,21 @@
+.container {
+    background-color: #ffffff;
+    height: 10px;
+}
+
+.container2 {
+    background-color: #ffffff;
+    color: #777777;
+}
+
+
+.button {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+.contactcontainer {
+    background-color: white;
+    max-width: 800px;
+
+}

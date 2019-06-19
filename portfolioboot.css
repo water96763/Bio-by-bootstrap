@@ -1,21 +1,47 @@
-.container {
-    background-color: #ffffff;
-    height: 10px;
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.indexcontainer {
+    height: 50px;
+    
 }
 
 .container2 {
-    background-color: #ffffff;
+    background-color: purple;
     color: #777777;
 }
 
+/*class vs id*/
 
 .button {
     background-color: #4aaaa5;
     color: white;
 }
 
-.contactcontainer {
-    background-color: white;
-    max-width: 800px;
+.name {
+    color: white;
+    background-color: #4aaaa5;
+    
+}
+.btn-group {
+    float: right;
+    color: #777777;
 
+}
+.contactcontainer {
+    background-color: green; 
+      max-width: 800px;
+
+}
+
+.fish {
+    height: 200px;
+    width: 200px;
 }

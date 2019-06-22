@@ -11,13 +11,17 @@
 h2 {
     color: white;
 }
+
+#contentbox {
+    margin-top: 20px;
+}
 /* this section is for index. two containers, with rows */
 
 /*
 .aboutme {
     color: #777777;
 }
-
+*/
 .img-thumbnail {
     margin-right: 30px;
 }

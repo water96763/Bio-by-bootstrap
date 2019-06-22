@@ -102,3 +102,15 @@ br {
 #exampleMessage {
     height: 200px;
 }
+
+/*below is for portfolio pics sizing*/
+
+.hangman {
+     float: left;
+}
+
+.rpg {
+     float: left; 
+}
+
+

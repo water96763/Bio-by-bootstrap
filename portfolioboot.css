@@ -93,3 +93,12 @@ footer{
 br {
     line-height: 1em;
 }
+
+#bottombutton {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+#exampleMessage {
+    height: 200px;
+}

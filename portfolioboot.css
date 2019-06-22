@@ -15,8 +15,11 @@
 
 .aboutme {
     background-color: purple;
-    max-width: 960px;
     color: #777777;
+}
+
+.img-thumbnail {
+    margin-right: 30px;
 }
 
 /*class vs id*/

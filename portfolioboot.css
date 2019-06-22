@@ -105,12 +105,34 @@ br {
 
 /*below is for portfolio pics sizing*/
 
-.hangman {
-     float: left;
+#hangman {
+    height: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
-.rpg {
-     float: left; 
+#rpg {
+    height: 150px; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+
 }
 
+#trivia {
+    height: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#rutgers {
+    height: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#rps {
+    height: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 

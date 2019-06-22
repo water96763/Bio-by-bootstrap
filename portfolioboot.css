@@ -6,15 +6,16 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+/* this section is for index. two containers, with rows */
 
-
-.indexcontainer {
+.headerbar {
     height: 50px;
     
 }
 
-.container2 {
+.aboutme {
     background-color: purple;
+    max-width: 960px;
     color: #777777;
 }
 
@@ -35,13 +36,11 @@
     color: #777777;
 
 }
+
+/*below is for contact page which only has one form container*/
+
 .contactcontainer {
     background-color: green; 
       max-width: 800px;
 
-}
-
-.fish {
-    height: 200px;
-    width: 200px;
 }

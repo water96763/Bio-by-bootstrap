@@ -12,6 +12,11 @@ h2 {
     color: white;
 }
 
+h3 {
+    color: #4aaaa5;
+    padding-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 #contentbox {
     margin-top: 20px;
 }
@@ -78,7 +83,3 @@ footer{
     }
 
     /*below is for line below header*/
-
-hr {
-    line-height: 2px;
-}

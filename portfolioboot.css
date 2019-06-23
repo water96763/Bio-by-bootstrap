@@ -20,47 +20,17 @@ h3 {
 #contentbox {
     margin-top: 20px;
 }
-/* this section is for index. two containers, with rows */
 
-/*
-.aboutme {
-    color: #777777;
-}
-*/
 .img-thumbnail {
     margin-right: 30px;
 }
 
-/*class vs id*/
-/*
-.button {
-    background-color: #4aaaa5;
-    color: white;
-}
 
-.name {
-    color: white;
-    background-color: #4aaaa5;
-    
-}
-.btn-group {
-    float: right;
-    color: #777777;
-
-}
-
-/*below is for contact page which only has one form container*/
-/*
-.contactcontainer {
-    background-color: green; 
-      max-width: 800px;
-
-}
 
 /*below is for papyrus body*/
  
 body { 
-    background:url(../Bio-by-bootstrap/papyrus.png);
+    background:url(../Bootstrap-Portfolio/papyrus.png);
     border-bottom-color: #4aaaa5;
     border-width: 0px 0px 100px 0px;
     

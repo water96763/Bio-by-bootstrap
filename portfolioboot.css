@@ -1,9 +1,9 @@
-/*
+
 
 .text {
     font-family: Arial, Helvetica, sans-serif;
 }
-*/
+
 #header {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -15,11 +15,14 @@ h2 {
 h3 {
     color: #4aaaa5;
     padding-top: 10px;
+    margin-left: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #contentbox {
     margin-top: 20px;
 }
+
+/*below is to put space between the image and the words*/
 
 .img-thumbnail {
     margin-right: 30px;
